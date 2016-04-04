@@ -27,7 +27,7 @@
 		</dependency>
 		
 		<dependency>
-			<groupId>nanoj</groupId>
+			<groupId>org.nanoj</groupId>
 			<artifactId>nanoj-persistence-jpa</artifactId>
 			<version>0.8.1-SNAPSHOT</version>
 		</dependency>
